@@ -34,6 +34,18 @@ tr:nth-child(even) {
     color: silver;
 }
 
+.img-footer, .img-footer2{
+   color: white;
+   text-align: center;
+   width: 200px;
+   height: 200px;
+   background-size:contain no-repeat;
+}
+
 .img-footer{
-    display: block;
+    background-image: url(../img/monitor.jpg);
+}
+
+.img-footer2{
+    background-image: url(../img/graph.jpg);
 }
