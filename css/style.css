@@ -14,13 +14,16 @@ header{
     font-size: small;
 
 }
+.evidence-text{
+    background-color: orange;
+}
 
 .description-foto {
     color: silver;
 }
 
 thead{
-    background-color: blue;
+    background-color: lightblue;
 }
 
 tr:nth-child(even) {
