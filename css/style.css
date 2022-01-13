@@ -18,3 +18,19 @@ header{
 .description-foto {
     color: silver;
 }
+
+thead{
+    background-color: blue;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+.interest{
+    color: silver;
+}
+
+.img-footer{
+    display: block;
+}
